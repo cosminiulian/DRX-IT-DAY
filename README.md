@@ -1,6 +1,6 @@
 # DRX IT DAY
 
-Programming contest made by DRAXLMAIER company </br>
+Application made for DRX IT DAY </br>
 
  ### Before Starting:
  In API: </br>
